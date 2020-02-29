@@ -1,0 +1,23 @@
+C:\Documents and Settings\Arbing\桌面\Speach\Speach\bin\Debug\Speach.exe
+C:\Documents and Settings\Arbing\桌面\Speach\Speach\bin\Debug\Speach.pdb
+C:\Documents and Settings\Arbing\桌面\Speach\Speach\bin\Debug\Interop.SpeechLib.dll
+C:\Documents and Settings\Arbing\桌面\Speach\Speach\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Arbing\桌面\Speach\Speach\obj\Debug\Interop.SpeechLib.dll
+C:\Documents and Settings\Arbing\桌面\Speach\Speach\obj\Debug\Speach.csproj.ResolveComReference.cache
+C:\Documents and Settings\Arbing\桌面\Speach\Speach\obj\Debug\Speach.Properties.Resources.resources
+C:\Documents and Settings\Arbing\桌面\Speach\Speach\obj\Debug\Speach.csproj.GenerateResource.Cache
+C:\Documents and Settings\Arbing\桌面\Speach\Speach\obj\Debug\Speach.exe
+C:\Documents and Settings\Arbing\桌面\Speach\Speach\obj\Debug\Speach.pdb
+C:\Documents and Settings\Arbing\桌面\Speach\Speach\obj\Debug\Speach.SpeechRead.resources
+D:\ProgramData\QQ\QQ\172941527\FileRecv\语音朗读类\Speach\Speach\bin\Debug\Speach.exe.config
+D:\ProgramData\QQ\QQ\172941527\FileRecv\语音朗读类\Speach\Speach\obj\Debug\Interop.SpeechLib.dll
+D:\ProgramData\QQ\QQ\172941527\FileRecv\语音朗读类\Speach\Speach\obj\Debug\Speach.csproj.ResolveComReference.cache
+D:\ProgramData\QQ\QQ\172941527\FileRecv\语音朗读类\Speach\Speach\obj\Debug\Speach.exe
+D:\ProgramData\QQ\QQ\172941527\FileRecv\语音朗读类\Speach\Speach\obj\Debug\Speach.pdb
+D:\ProgramData\QQ\QQ\172941527\FileRecv\语音朗读类\Speach\Speach\bin\Debug\Speach.exe
+D:\ProgramData\QQ\QQ\172941527\FileRecv\语音朗读类\Speach\Speach\bin\Debug\Speach.pdb
+D:\ProgramData\QQ\QQ\172941527\FileRecv\语音朗读类\Speach\Speach\bin\Debug\Interop.SpeechLib.dll
+D:\ProgramData\QQ\QQ\172941527\FileRecv\语音朗读类\Speach\Speach\obj\Debug\Speach.csprojResolveAssemblyReference.cache
+D:\ProgramData\QQ\QQ\172941527\FileRecv\语音朗读类\Speach\Speach\obj\Debug\Speach.SpeechRead.resources
+D:\ProgramData\QQ\QQ\172941527\FileRecv\语音朗读类\Speach\Speach\obj\Debug\Speach.Properties.Resources.resources
+D:\ProgramData\QQ\QQ\172941527\FileRecv\语音朗读类\Speach\Speach\obj\Debug\Speach.csproj.GenerateResource.Cache
